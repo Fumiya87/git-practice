@@ -1,2 +1,2 @@
-hoge
-git hub 使い方復習
+
+- ８/5 github使い方復習
